@@ -4,13 +4,13 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="28"/> Naomi Tesla <img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="28"></h1>
 
 
-```
+<pre>
 🧙‍♀️ My name is Naomi Tesla!
 🌎 I live in the US.
-🏳️‍🌈 LGBT
+🏳️‍🌈 LG<b>L</b>GB<b>T</b>
 🖥️ I’m a backend Python engineer and offensive cyber security expert.
 ❤️ I like computers (evidently), engineering, and learning new things c:
-```
+</pre>
 
 ## Github Stats
 
