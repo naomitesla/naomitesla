@@ -48,7 +48,7 @@
 
 ## Socials
 <div>
-	<a href="https://www.linkedin.com/in/naomi-tesla/">  
+	<a href="https://www.linkedin.com/in/naomi-tesla">  
 	          <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIN"/></a> &nbsp;
 	<a href="https://discordapp.com/users/315262571315986432" style="text-decoration: none">  
 	          <img width="45" src="https://user-images.githubusercontent.com/110672478/213858864-abd45924-faf5-41fb-b5bf-1e3f96797384.svg" alt="Discord"/></a> &nbsp;
