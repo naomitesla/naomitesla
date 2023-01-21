@@ -7,9 +7,9 @@
 ```
 🧙‍♀️ My name is Naomi Tesla!
 🌎 I live in the US.
-🏳️‍🌈 **L**GB**T**
+🏳️‍🌈 LGBT
 🖥️ I’m a backend Python engineer and offensive cyber security expert.
-❤️ I like computers *(evidently)*, engineering, and learning new things c:
+❤️ I like computers (evidently), engineering, and learning new things c:
 ```
 
 ## Github Stats
