@@ -16,7 +16,7 @@
 
 <div>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaomiTesla&theme=omni&show_icons=true"/>
-	<img align='right' src="https://user-images.githubusercontent.com/110672478/213859388-ae94b66b-4cff-49e0-8c97-f083e4d2f86c.gif" width="390" />
+	<img align='right' src="https://user-images.githubusercontent.com/110672478/213859388-ae94b66b-4cff-49e0-8c97-f083e4d2f86c.gif" width="190" />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaomiTesla&layout=compact&theme=omni"/>
 </div> 
 
