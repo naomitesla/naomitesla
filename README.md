@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/110672478/213875284-cb34a791-67d3-46dd-b143-cdc5fde3cc7c.gif" width="720"/>
 <img align='right' src="https://user-images.githubusercontent.com/110672478/213859389-dddb5018-0f72-43fe-8386-3f20aa68b0ba.gif" width="240"/>
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="26"/> Naomi Tesla <img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="26"></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="24"/> Naomi Tesla <img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="24"></h1>
 
 
 <pre>
