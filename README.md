@@ -1,4 +1,4 @@
-<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="700"/>
+<img src="https://64.media.tumblr.com/005e37a86478a9c92da7d4d3d7464b40/2bd29f0062317531-b1/s400x600/c7edc142895bc810339223dfddf2aa57ced0c32b.gif" width="800"/>
 <img align='right' src="https://user-images.githubusercontent.com/110672478/213859389-dddb5018-0f72-43fe-8386-3f20aa68b0ba.gif" width="240"/>
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="28"/> Naomi Tesla <img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="28"></h1>
