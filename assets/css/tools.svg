@@ -1,0 +1,54 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                @import url('https://fonts.cdnfonts.com/css/hubot-sans');
+
+                .css {
+                    display: inline-block;
+                    text-align: center;
+                    margin: auto;
+                    padding-top: 5px;
+                }
+
+                .imgtext {
+                    /*margin-bottom: 100px;*/
+                    display: block;
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+                    font-size: 16px;
+                    line-height: 1.5;
+                    word-wrap: break-word;
+                    color: #f0f6fc;
+                    <!-- background-color: #161b22; -->
+                }
+
+                .wrapper {
+                    display: inline-block;
+                    padding-right: 10px;
+                }
+            </style>
+            <div class="css">
+                <div class="wrapper">
+                    <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
+                    <span class="imgtext">
+                        VS Code
+                    </span>
+                </div>
+                <div class="wrapper">
+                    <img width="45" src="https://user-images.githubusercontent.com/110672478/213860057-9398b179-37b1-44a8-bd51-7edd81a4c5c1.svg" alt="Linux"/>
+                    <span class="imgtext">
+                        Linux
+                    </span>
+                </div>
+                <div class="wrapper">
+                    <img width="45" src="https://user-images.githubusercontent.com/110672478/213860058-22c0a86e-e206-4f2e-8181-71295cc1454d.svg" alt="Vim"/>
+                    <span class="imgtext">
+                        Vim
+                    </span>
+                </div>
+
+
+            </div>
+        </div>
+    </foreignObject>
+</svg>

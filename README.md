@@ -49,13 +49,14 @@
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" />&nbsp;
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />&nbsp;
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />&nbsp;
+	<img src="assets/css/frameworks-and-technologies.svg" />
 </div> 
 
 ## My tools
 <div>
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>&nbsp;
-	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860057-9398b179-37b1-44a8-bd51-7edd81a4c5c1.svg" alt="Linux"/>&nbsp;
-	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860058-22c0a86e-e206-4f2e-8181-71295cc1454d.svg" alt="Vim"/>
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" />&nbsp;
+	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860057-9398b179-37b1-44a8-bd51-7edd81a4c5c1.svg" alt="Linux" />&nbsp;
+	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860058-22c0a86e-e206-4f2e-8181-71295cc1454d.svg" alt="Vim" />
 </div> 
 
 
