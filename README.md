@@ -1,9 +1,11 @@
+<!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
 <img src="https://user-images.githubusercontent.com/110672478/213875284-cb34a791-67d3-46dd-b143-cdc5fde3cc7c.gif" width="720"/>
 <img align='right' src="https://user-images.githubusercontent.com/110672478/213859389-dddb5018-0f72-43fe-8386-3f20aa68b0ba.gif" width="240"/>
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="24"/> Naomi Tesla <img src="https://user-images.githubusercontent.com/110672478/213859436-1fcf0ae8-17fc-4987-8c03-e72f24c186ca.gif" width="24"></h1>
 
+<!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
 <pre>
 🧙‍♀️ My name is Naomi Tesla!
@@ -13,6 +15,7 @@
 ❤️ I like computers <i>(evidently)</i>, engineering, and learning new things c:
 </pre>
 
+
 ## Github Stats
 
 <div>
@@ -20,6 +23,7 @@
 	<img align='right' src="https://user-images.githubusercontent.com/110672478/213859388-ae94b66b-4cff-49e0-8c97-f083e4d2f86c.gif" width="245" />
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaomiTesla&layout=compact&theme=omni"/>
 </div> 
+
 
 ## My languages
 <div>
@@ -33,6 +37,7 @@
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>
 </div> 
 
+
 ## My frameworks & technologies
 <div>
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
@@ -42,6 +47,7 @@
 		<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Spring" />
 </div> 
 
+
 ## My tools
 <div>
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
@@ -49,16 +55,6 @@
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
 	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860058-22c0a86e-e206-4f2e-8181-71295cc1454d.svg" alt="Vim"/>
 </div> 
-
-## Learning
-<div>
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="VSCode"/>
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"/>
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="R"/>
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery"/>
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="Ruby"/>
-</div> 
-
 
 
 ## Socials
@@ -77,3 +73,5 @@
 
 <br />
 <img src="https://user-images.githubusercontent.com/110672478/213875284-cb34a791-67d3-46dd-b143-cdc5fde3cc7c.gif" width="840"/>
+
+<!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
