@@ -48,15 +48,16 @@
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Spring" />
+		<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Spring" />
 </div> 
 
 
-## My tools & platforms
+## My tools
 <div>
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
 	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860057-9398b179-37b1-44a8-bd51-7edd81a4c5c1.svg" alt="Linux"/>
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino"/>
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi"/>
 	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860058-22c0a86e-e206-4f2e-8181-71295cc1454d.svg" alt="Vim"/>
 </div> 
 
