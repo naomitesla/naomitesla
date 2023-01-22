@@ -49,7 +49,7 @@
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" />&nbsp;
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />&nbsp;
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />&nbsp;
-	<img src="assets/css/frameworks-and-technologies.svg" />
+	<img src="frameworks-and-technologies.svg" />
 </div> 
 
 ## My tools
