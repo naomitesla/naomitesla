@@ -30,17 +30,16 @@
 
 
 ## My languages
-<div>&nbsp;
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python3"/>&nbsp;&nbsp;
+<div>
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python3"/>&nbsp;
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/>&nbsp;
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>&nbsp;
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>&nbsp;
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>&nbsp;
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />&nbsp;
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>&nbsp;
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>&nbsp;
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>
 </div> 
-Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C++&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;CSS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;Kotlin
 
 
 ## My frameworks & technologies
@@ -51,15 +50,13 @@ Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />&nbsp;
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />&nbsp;
 </div> 
-React&nbsp;&nbsp;MySQL&nbsp; Flask&nbsp;&nbsp;Node&nbsp;&nbsp;&nbsp;Spring
 
 ## My tools
-<div>&nbsp;&nbsp;
-	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860057-9398b179-37b1-44a8-bd51-7edd81a4c5c1.svg" alt="Linux"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div>
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>&nbsp;
+	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860057-9398b179-37b1-44a8-bd51-7edd81a4c5c1.svg" alt="Linux"/>&nbsp;
 	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860058-22c0a86e-e206-4f2e-8181-71295cc1454d.svg" alt="Vim"/>
 </div> 
-VS Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vim
 
 
 ## Socials
