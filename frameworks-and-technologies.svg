@@ -35,7 +35,7 @@
                     </span>
                 </div>
                 <div class="wrapper">
-                    <img width="45" src="../mysql-original.svg" alt="MySQL"/>
+                    <img width="45" src="mysql-original.svg" alt="MySQL"/>
                     <span class="imgtext">
                         MySQL
                     </span>
