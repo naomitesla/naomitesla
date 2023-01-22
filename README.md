@@ -12,11 +12,11 @@
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
 <pre>
-🧙‍♀️ My name is Naomi Tesla!
-🌎 I live in the US.
-🏳️‍🌈 <b>(L)</b>GB<b>(T)</b>
-🖥️ I’m a backend Python engineer and offensive cyber security expert.
-❤️ I like computers <i>(evidently)</i>, engineering, and learning new things c:
+	🧙‍♀️ My name is Naomi Tesla!
+	🌎 I live in the US.
+	🏳️‍🌈 <b>(L)</b>GB<b>(T)</b>
+	🖥️ I’m a backend Python engineer and offensive cyber security expert.
+	❤️ I like computers <i>(evidently)</i>, engineering, and learning new things c:
 </pre>
 
 
@@ -48,7 +48,7 @@
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />
-		<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Spring" />
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Spring" />
 </div> 
 
 
