@@ -52,7 +52,7 @@
 </div> 
 
 
-## My tools
+## My tools & platforms
 <div>
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/>
 	<img width="45" src="https://user-images.githubusercontent.com/110672478/213860057-9398b179-37b1-44a8-bd51-7edd81a4c5c1.svg" alt="Linux"/>
