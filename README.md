@@ -1,3 +1,4 @@
+
 <img src="https://user-images.githubusercontent.com/110672478/213875284-cb34a791-67d3-46dd-b143-cdc5fde3cc7c.gif" width="720"/>
 <img align='right' src="https://user-images.githubusercontent.com/110672478/213859389-dddb5018-0f72-43fe-8386-3f20aa68b0ba.gif" width="240"/>
 
@@ -28,6 +29,8 @@
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/> 
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"/>
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin"/>
 </div> 
 
 ## My frameworks & technologies
@@ -36,6 +39,7 @@
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" />
 	<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" />
+		<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Spring" />
 </div> 
 
 ## My tools
