@@ -1,7 +1,6 @@
 import os
 import glob
 import base64
-# import argparse
 
 py_path = os.path.abspath(__file__)
 py_dir = os.path.dirname(py_path)
