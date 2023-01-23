@@ -25,9 +25,6 @@
   
 
 ## Github Stats
-
-  
-
 <div>
 	<img align="right"  src="https://user-images.githubusercontent.com/110672478/213859388-ae94b66b-4cff-49e0-8c97-f083e4d2f86c.gif"  width="245"  />
 	<a  href="https://github.com/NaomiTesla/animated-line-art-generator">
@@ -38,37 +35,26 @@
 	</a>
 </div>
 
-  
-  
 
 ## My languages
-
 <div>
 	<img  src="./assets/css/languages.svg"  alt="Languages">
 </div>
 
-  
-  
 
 ## My frameworks & technologies
-
 <div>
 	<img  src="./assets/css/frameworks-and-technologies.svg"  alt="Frameworks and technologies">
 </div>
 
-  
 
 ## My tools
-
 <div>
 	<img  src="./assets/css/tools.svg"  alt="Tools">
 </div>
 
-  
-  
 
 ## Socials
-
 <div>
 	<a  href="https://www.linkedin.com/in/naomi-tesla">
 		<img  width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="LinkedIN"/></a>  &nbsp;
@@ -81,8 +67,6 @@
 	<a  href="https://twitter.com/naomi_tesla">
 		<img  width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  alt="Twitter"/></a>  &nbsp;
 </div>
-
-  
 
 <br  />
 <img  src="https://user-images.githubusercontent.com/110672478/213875284-cb34a791-67d3-46dd-b143-cdc5fde3cc7c.gif"  width="840"/>
