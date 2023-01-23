@@ -30,7 +30,7 @@
 		<img align="center"  src="https://github-readme-stats.vercel.app/api?username=NaomiTesla&show_icons=true&theme=omni"  />
 	</a>
 	<a  href="https://github.com/NaomiTesla">
-		<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaomiTesla&layout=compact&theme=omni"  />
+		<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=NaomiTesla&layout=compact&theme=omni"  />
 	</a>
 </div>
 
