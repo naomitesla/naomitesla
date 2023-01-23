@@ -29,7 +29,7 @@
             padding-right: 10px;
         }
     </style>
-    <foreignObject>
+    <foreignObject style="overflow: hidden">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <div class="css">
                 <div class="wrapper">
