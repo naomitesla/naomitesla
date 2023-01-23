@@ -37,7 +37,7 @@
 
 ## My frameworks & technologies
 <div>
-	<img src="./assets/css/frameworks-and-technologies.svg" alt="Frameworks and technologies">
+	<img src="./assets/css/languages.svg" alt="Languages">
 </div> 
 
 ## My tools
