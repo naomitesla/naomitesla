@@ -4,8 +4,9 @@
 
         foreignObject {
             overflow: hidden;
+            display: block;
         }
-        
+
         .css {
             display: inline-block;
             text-align: center;
