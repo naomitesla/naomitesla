@@ -71,19 +71,19 @@
 
 <div>
 	<a  href="https://www.linkedin.com/in/naomi-tesla">
-		<img  width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="LinkedIN"/>
+	<img  width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  alt="LinkedIN"/>
 	</a>  &nbsp;
 	<a  href="https://discordapp.com/users/315262571315986432"  style="text-decoration: none">
-		<img  width="45"  src="https://user-images.githubusercontent.com/110672478/213858864-abd45924-faf5-41fb-b5bf-1e3f96797384.svg"  alt="Discord"/>
+	<img  width="45"  src="https://user-images.githubusercontent.com/110672478/213858864-abd45924-faf5-41fb-b5bf-1e3f96797384.svg"  alt="Discord"/>
 	</a>  &nbsp;
 	<a  href="https://stackoverflow.com/users/13565899/naomi-tesla">
-		<img  width="45"  src="https://user-images.githubusercontent.com/110672478/213859054-8bde9f78-6782-4b16-aacd-78cae162b0cf.svg"  alt="StackOverflow"/>
+	<img  width="45"  src="https://user-images.githubusercontent.com/110672478/213859054-8bde9f78-6782-4b16-aacd-78cae162b0cf.svg"  alt="StackOverflow"/>
 	</a>  &nbsp;
 	<a  href="https://naomitesla.net/">
-		<img  width="45"  src="https://user-images.githubusercontent.com/110672478/213858929-2dd2dcb4-f148-442f-9480-54376284e1ca.png"  alt="My website"/>
+	<img  width="45"  src="https://user-images.githubusercontent.com/110672478/213858929-2dd2dcb4-f148-442f-9480-54376284e1ca.png"  alt="My website"/>
 	</a>  &nbsp;
 	<a  href="https://twitter.com/naomi_tesla">
-		<img  width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  alt="Twitter"/>
+	<img  width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"  alt="Twitter"/>
 	</a>  &nbsp;
 </div>
 
