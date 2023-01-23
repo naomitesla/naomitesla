@@ -2,11 +2,6 @@
     <style>
         @import url('https://fonts.cdnfonts.com/css/hubot-sans');
 
-        foreignObject {
-            overflow: hidden;
-            display: block;
-        }
-
         .css {
             display: inline-block;
             text-align: center;

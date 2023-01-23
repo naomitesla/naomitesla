@@ -1,32 +1,32 @@
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 550 80" width="550" height="80" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        @import url('https://fonts.cdnfonts.com/css/hubot-sans');
+
+        .css {
+            display: inline-block;
+            text-align: center;
+            margin: auto;
+            padding-top: 5px;
+        }
+
+        .imgtext {
+            /*margin-bottom: 100px;*/
+            display: block;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+            font-size: 16px;
+            line-height: 1.5;
+            word-wrap: break-word;
+            color: #f0f6fc;
+            <!-- background-color: #161b22; -->
+        }
+
+        .wrapper {
+            display: inline-block;
+            padding-right: 10px;
+        }
+    </style>
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-                @import url('https://fonts.cdnfonts.com/css/hubot-sans');
-
-                .css {
-                    display: inline-block;
-                    text-align: center;
-                    margin: auto;
-                    padding-top: 5px;
-                }
-
-                .imgtext {
-                    /*margin-bottom: 100px;*/
-                    display: block;
-                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-                    font-size: 16px;
-                    line-height: 1.5;
-                    word-wrap: break-word;
-                    color: #f0f6fc;
-                    <!-- background-color: #161b22; -->
-                }
-
-                .wrapper {
-                    display: inline-block;
-                    padding-right: 10px;
-                }
-            </style>
             <div class="css">
                 <div class="wrapper">
                     <img width="45" src="data:image/svg+xml;charset=utf-8;base64, PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMy42NTYgNDUuMDQzcy0zLjAyNy0yLjE5MS42MS01LjExM2w4LjQ2OC03LjU5NHMyLjQyNi0yLjU1OSA0Ljk4OS0uMzI4bDc4LjE3NSA1OS4zMjh2MjguNDVzLS4wMzkgNC40NjgtNS43NTcgMy45NzZ6bTAgMCIgZmlsbD0iIzI0ODljYSIvPjxwYXRoIGQ9Ik0yMy44MDkgNjMuMzc5TDMuNjU2IDgxLjc0MnMtMi4wNyAxLjU0MyAwIDQuMzA1bDkuMzU2IDguNTI3czIuMjIyIDIuMzk1IDUuNTA4LS4zMjhsMjEuMzU5LTE2LjIzOHptMCAwIiBmaWxsPSIjMTA3MGIzIi8+PHBhdGggZD0iTTU5LjE4NCA2My41MzFsMzYuOTUzLTI4LjI4NS0uMjM5LTI4LjI5N1M5NC4zMi43NzMgODkuMDU1IDMuOTlMMzkuODc5IDQ4Ljg1MXptMCAwIiBmaWxsPSIjMDg3N2I5Ii8+PHBhdGggZD0iTTkwLjE0IDEyMy43OTdjMi4xNDUgMi4yMDMgNC43NDcgMS40OCA0Ljc0NyAxLjQ4bDI4Ljc5Ny0xNC4yMjJjMy42ODctMi41MiAzLjE3MS01LjY0NSAzLjE3MS01LjY0NVYyMC40NjVjMC0zLjczNS0zLjgxMi01LjAyNC0zLjgxMi01LjAyNEw5OC4wODIgMy4zOGMtNS40NTMtMy4zNzktOS4wMjcuNjEtOS4wMjcuNjFzNC41OTMtMy4zMTcgNi44NDMgMi45NnYxMTIuMzE3YzAgLjc3My0uMTY0IDEuNTMtLjQ5MiAyLjIxNC0uNjU2IDEuMzMyLTIuMDg2IDIuNTctNS41MDQgMi4wNTF6bTAgMCIgZmlsbD0iIzNjOTlkNCIvPjwvc3ZnPg==" alt="VSCode"/>
