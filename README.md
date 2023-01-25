@@ -1,7 +1,8 @@
 
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
 
-<img  src="https://user-images.githubusercontent.com/110672478/213875284-cb34a791-67d3-46dd-b143-cdc5fde3cc7c.gif"  width="720"/>
+<a href="https://github.com/NaomiTesla/animated-line-art-generator">
+	<img  src="https://user-images.githubusercontent.com/110672478/213875284-cb34a791-67d3-46dd-b143-cdc5fde3cc7c.gif"  width="720"/></a>
 <img align='right'  src="https://user-images.githubusercontent.com/110672478/213859389-dddb5018-0f72-43fe-8386-3f20aa68b0ba.gif"  width="240"/>
 
 <h1 align="center">
@@ -69,6 +70,7 @@
 </div>
 
 <br  />
-<img  src="https://user-images.githubusercontent.com/110672478/213875284-cb34a791-67d3-46dd-b143-cdc5fde3cc7c.gif"  width="840"/>
+<a href="https://github.com/NaomiTesla/animated-line-art-generator">
+	<img  src="https://user-images.githubusercontent.com/110672478/213875284-cb34a791-67d3-46dd-b143-cdc5fde3cc7c.gif"  width="840"/></a>
 
 <!--- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --->
