@@ -17,7 +17,7 @@
 🧙‍♀️ My name is Naomi Tesla!
 🌎 I live in the US.
 🏳️‍🌈 <b>(L)</b>GB<b>(T)</b>
-🖥️ I’m a backend Python engineer and offensive cyber security expert.
+🖥️ I’m a full-stack engineer and offensive cyber security expert.
 ❤️ I like computers <i>(evidently)</i>, engineering, and learning new things c:
 </pre>
 
