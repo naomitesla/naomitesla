@@ -34,7 +34,7 @@
 		<img align="center" width="500" src="https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=NaomiTesla&rank_icon=github&show_icons=true&theme=omni"  />
 	</a> -->
 	<a href="#">
-		<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaomiTesla&layout=donut-vertical&theme=omni"  />
+		<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaomiTesla&layout=donut&theme=omni"  />
 	</a>
 </div>
 
