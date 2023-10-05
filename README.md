@@ -34,7 +34,7 @@
 		<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=NaomiTesla&show_icons=true&theme=omni"  />
 	</a> -->
 	<a href="#">
-		<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=NaomiTesla&layout=compact&theme=omni"  />
+		<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaomiTesla&layout=donut&theme=omni"  />
 	</a>
 </div>
 
