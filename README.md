@@ -30,11 +30,11 @@
 ## Github Stats
 <div>
 	<img align="right"  src="https://user-images.githubusercontent.com/110672478/213859388-ae94b66b-4cff-49e0-8c97-f083e4d2f86c.gif"  width="245"  />
-	<a href="#">
+	<!-- 	<a href="#"> wanna find something prettierrrr temporarilyyy :o
 		<img align="center" width="500" src="https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=NaomiTesla&rank_icon=github&show_icons=true&theme=omni"  />
-	</a>
+	</a> -->
 	<a href="#">
-		<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaomiTesla&layout=donut&theme=omni"  />
+		<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaomiTesla&layout=donut-vertical&theme=omni"  />
 	</a>
 </div>
 
